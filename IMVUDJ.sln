@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMVUDJ", "IMVUDJ\IMVUDJ.csproj", "{DAD476C4-2A5B-47D4-89FD-7EF00972BDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD476C4-2A5B-47D4-89FD-7EF00972BDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD476C4-2A5B-47D4-89FD-7EF00972BDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD476C4-2A5B-47D4-89FD-7EF00972BDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD476C4-2A5B-47D4-89FD-7EF00972BDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E599C615-71B2-4E0C-89A8-EC85E448F4AF}
+	EndGlobalSection
+EndGlobal
